@@ -14,7 +14,13 @@
 
   Um sistema de serviços para auxiliar o cadastro de moradores e serviços de 
   reserva.
-  
+
+
+<h2 id="tec">Tecnologias</h2>
+
+- Java
+- SpringBoot
+- Postgresql
 
 <h1 id="package"> Registro da divisão de packages do projeto.</h1>
 
