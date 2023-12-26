@@ -19,10 +19,7 @@
 <h1 id="package"> Registro da divisão de packages do projeto.</h1>
 
 
-
-
-![image](https://github.com/Diego-deBrito/PIM/assets/104443845/849855a8-938e-4407-bb93-b720a6231ea3)
-
+![image](https://github.com/Diego-deBrito/ProjetoPIM/assets/104443845/107af7fe-54f3-4347-b8fd-9b501b353769)
 
 
 
