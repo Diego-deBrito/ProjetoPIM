@@ -23,6 +23,13 @@
 
 
 
+<h1 id="package"> Registro de tabelas criadas no banco de dados.</h1>
+
+![image](https://github.com/Diego-deBrito/ProjetoPIM/assets/104443845/836baf25-0b27-44f9-946f-3b0c88d3676d)
+
+
+
+
 <h1 id="sql"> Registro das instruções SQL do projeto.</h1>
 <a>Tabela Morador:</a>
 
