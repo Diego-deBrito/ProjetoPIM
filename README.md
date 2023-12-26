@@ -73,6 +73,12 @@
         role TEXT NOT NULL
 );
 
+
+<a> Inserção de dados para registro e cadastro de moradores <a>
+
+    ![image](https://github.com/Diego-deBrito/ProjetoPIM/assets/104443845/632bc271-6ac4-4d3a-908e-8f5300b98c3e)
+
+
 <h2 id="metodos">Métodos de controlador </h2>
 
 <a>Método de cadastro de morador em apartamento</a>
