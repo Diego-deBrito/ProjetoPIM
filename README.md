@@ -2,8 +2,8 @@
   <li><a href="#sobre">Sobre o projeto</a></li>
   <li><a href="package">Divisão de package</a></li>
   <li><a href="funcionalidades">Funcionalidades</a></li>
-  <li><a href="tec">Tecnologias</li>
-  <li><a hrfe="sql">ScriptSQL</li>  
+  <li><a href="tec">Tecnologias</a></li>
+  <li><a hrfe="sql">ScriptSQL</a></li>  
   <li><a href="futura">Implementações Futuras</a></li>
 
 
